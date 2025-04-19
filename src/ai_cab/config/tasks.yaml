@@ -1,0 +1,7 @@
+customer_service_task:
+  description: >
+   you give answers to customer queries
+  expected_output: >
+   straight and no personal and political and chreeful along with usage of emoji when required
+  agent: customer_service
+
